@@ -42,4 +42,4 @@ I am actively seeking an internship opportunity focused on data engineering, esp
 
 - [LinkedIn](https://www.linkedin.com/in/moeinghaeini/)
 - [X Or Twitter](https://x.com/moeinghaeini)
-- [Personal Website/Blog](https://www.moeinghaeini.com/)
+- [Personal Blog](https://www.moeinghaeini.com/)
