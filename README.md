@@ -43,7 +43,3 @@ I am actively seeking an internship opportunity focused on data engineering, esp
 - [LinkedIn](https://www.linkedin.com/in/moeinghaeini/)
 - [X Or Twitter](https://x.com/moeinghaeini)
 - [Personal Website/Blog](https://www.moeinghaeini.com/)
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
