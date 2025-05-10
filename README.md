@@ -1,45 +1,68 @@
+# 👋 Hi there, I'm Moein!
 
-# Hello, I'm Moein 👋
+## 🌟 About Me
 
-## About Me
+I'm an MSc Computer Science student at the University of Milan, passionate about **cloud data engineering** and **video game development**. I love designing scalable systems that bring data to life—and when I’m not working with pipelines, I’m building pixel worlds and experimenting with game mechanics.
 
-I am an MSc student in Computer Science at the University of Milan, with a strong passion for data visualization and data engineering, particularly in the realm of business and financial data. My academic journey has provided me with a solid foundation in data management systems, data analysis methodologies, and software engineering principles. I am enthusiastic about leveraging my skills to inform strategic decision-making and drive business growth.
+I’m always exploring new ways to combine creativity and technology—whether that’s through processing real-time data on the cloud or crafting immersive game experiences.
 
-## Skills and Tools
+---
 
-### Programming Languages
-- **Python**
-- **SQL**
+## 🧰 Tech Stack
 
-### Big Data Technologies
-- **Hadoop**
-- **Spark**
-- **Kafka**
-- **Flink**
+### ☁️ Cloud & DevOps
+- **AWS** – S3, Lambda, SNS, EC2, RDS, Glue, CloudWatch, IAM  
+- **GCP** – BigQuery, Cloud Functions, Pub/Sub  
+- **Azure** – Data Factory, Blob Storage (learning)  
+- **Docker & Kubernetes** – For containerized, scalable deployments  
+- **Terraform** – Infrastructure as code (beginner)
 
-### Databases
-- **MongoDB**
-- **Neo4j**
-- **Cassandra**
-- **PostgreSQL**
+### 🔄 Data Engineering
+- **Apache Kafka** – Real-time streaming  
+- **Apache Spark** – Batch & stream processing  
+- **Apache Flink** – Low-latency stream processing  
+- **Airflow** – Workflow orchestration
 
-### Data Visualization
-- **Matplotlib**
-- **Seaborn**
-- **D3.js**
+### 🗃️ Databases
+- **PostgreSQL**, **MongoDB**, **Cassandra**, **Neo4j**
 
-### Others
-- **Git/GitHub**
-- **Docker**
-- **Airflow**
-- **Kubernetes**
+### 📊 Data Visualization
+- **Matplotlib**, **Seaborn**, **D3.js**
 
-## Looking for Internship Opportunities
+### 👾 Game Development
+- **Unity** (C#) – Game mechanics & prototyping  
+- **Unreal Engine** (beginner)  
+- **Blender** – Basic 3D modeling
 
-I am actively seeking an internship opportunity focused on data engineering, especially involving business and financial datasets. I am eager to apply my technical skills to real-world scenarios in the financial sector, leveraging data to inform strategic decision-making and drive business growth.
+### 💻 Programming
+- **Python**, **SQL**, **C#**, **Bash**
 
-## Let's Connect
+---
 
-- [LinkedIn](https://www.linkedin.com/in/moeinghaeini/)
-- [X Or Twitter](https://x.com/moeinghaeini)
-- [Personal Blog](https://www.moeinghaeini.com/)
+## 🚀 What I'm Into
+
+- Building **cloud-native data pipelines**
+- Automating workflows using **serverless architectures**
+- Crafting **game worlds** and experimenting with design
+- Visualizing data to tell engaging stories
+- Working on side projects that blend **tech + creativity**
+
+---
+
+## 🎯 Looking for Opportunities
+
+I'm currently looking for an **internship** or collaboration where I can:
+
+- Work on **cloud data platforms**, especially involving real-time or large-scale datasets  
+- Join a team building **data infrastructure** for analytics in games or apps  
+- Combine my cloud and creative skills on **interactive, impactful projects**
+
+---
+
+## 🤝 Let's Connect!
+
+- 🌐 [moeinghaeini.com](https://www.moeinghaeini.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/moeinghaeini/)
+- 🐦 [Twitter / X](https://x.com/moeinghaeini)
+
+Thanks for stopping by!
