@@ -1,19 +1,19 @@
 <div align="center">
 
-# 👋 Hello! I'm Moein Ghaeini
+# Hello, I'm Moein Ghaeini
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AWS+Cloud+Data+Engineer;Game+Developer;AI%2FML+Enthusiast;Full-Stack+Innovator" alt="Typing SVG" />
+*AWS Cloud Data Engineer • Game Developer • AI/ML Enthusiast*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-moeinghaeini.com-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.moeinghaeini.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeinghaeini/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/moeinghaeini)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeinghaeini@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-moeinghaeini.com-6B8E6B?style=flat-square&logo=vercel&logoColor=white)](https://www.moeinghaeini.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6B8E6B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeinghaeini/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-6B8E6B?style=flat-square&logo=twitter&logoColor=white)](https://x.com/moeinghaeini)
+[![Email](https://img.shields.io/badge/Email-Contact-6B8E6B?style=flat-square&logo=gmail&logoColor=white)](mailto:moeinghaeini@gmail.com)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## About Me
 
 <div align="center">
 
@@ -23,7 +23,7 @@ class MoeinGhaeini:
         self.name = "Moein Ghaeini"
         self.role = "AWS Cloud Data Engineer & Game Developer"
         self.education = "MSc Computer Science @ University of Milan"
-        self.location = "Milan, Italy"
+        self.location = "Hamburg, Germany → Milan, Italy"
         self.passion = ["Cloud Architecture", "Game Development", "AI/ML", "Innovation"]
         
     def current_focus(self):
@@ -41,45 +41,45 @@ When I'm not architecting data pipelines on AWS, I'm crafting immersive game wor
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-![Moein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moeinghaeini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Moein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moeinghaeini&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=6B8E6B&text_color=4A4A4A&icon_color=6B8E6B&font=Massimo%20Dotti)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeinghaeini&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeinghaeini&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=ffffff&title_color=6B8E6B&text_color=4A4A4A&font=Massimo%20Dotti)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moeinghaeini&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moeinghaeini&theme=default&hide_border=true&background=ffffff&stroke=6B8E6B&ring=6B8E6B&fire=6B8E6B&currStreakNum=4A4A4A&sideNums=4A4A4A&currStreakLabel=4A4A4A&sideLabels=4A4A4A&font=Massimo%20Dotti)
 
 </div>
 
 ---
 
-## 🛠️ My Technical Arsenal
+## Technical Skills
 
 <div align="center">
 
-### 🏆 Tech Stack Overview
+### Core Technologies
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-6B8E6B?style=flat-square&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6B8E6B?style=flat-square&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-6B8E6B?style=flat-square&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6B8E6B?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-6B8E6B?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-6B8E6B?style=flat-square&logo=terraform&logoColor=white)
 
 </div>
 
-### ☁️ AWS Cloud & Data Engineering
+### AWS Cloud & Data Engineering
 
 <div align="center">
 
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=flat-square&logo=amazon-sagemaker&logoColor=white)
-![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=aws-glue&logoColor=white)
-![Kinesis](https://img.shields.io/badge/Amazon_Kinesis-FF9900?style=flat-square&logo=amazon-kinesis&logoColor=white)
-![EMR](https://img.shields.io/badge/Amazon_EMR-FF9900?style=flat-square&logo=amazon-emr&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-6B8E6B?style=flat-square&logo=amazon-s3&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-6B8E6B?style=flat-square&logo=aws-lambda&logoColor=white)
+![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-6B8E6B?style=flat-square&logo=amazon-sagemaker&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS_Glue-6B8E6B?style=flat-square&logo=aws-glue&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Amazon_Kinesis-6B8E6B?style=flat-square&logo=amazon-kinesis&logoColor=white)
+![EMR](https://img.shields.io/badge/Amazon_EMR-6B8E6B?style=flat-square&logo=amazon-emr&logoColor=white)
 
 </div>
 
