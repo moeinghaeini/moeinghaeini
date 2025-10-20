@@ -22,14 +22,6 @@ public:
             std::cout << "   ⚡ " << skill << std::endl;
         }
     }
-    
-    void showContact() {
-        std::cout << "\n📞 Contact Information:" << std::endl;
-        std::cout << "    GitHub:    https://github.com/moeinghaeini" << std::endl;
-        std::cout << "   LinkedIn:  https://www.linkedin.com/in/moeinghaeini/" << std::endl;
-        std::cout << "   Business Card:   https://www.moeinghaeini.com/" << std::endl;
-        std::cout << "   📧 Email:     moeinghaeini@gmail.com" << std::endl;
-    }
 };
 
 int main() {
