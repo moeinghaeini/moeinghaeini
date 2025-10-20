@@ -27,7 +27,6 @@ public:
 int main() {
     MoeinGhaeini profile;
     profile.displayProfile();
-    profile.showContact();
     
     std::cout << "\n✨ Let's build amazing cloud solutions together! ✨" << std::endl;
     return 0;
