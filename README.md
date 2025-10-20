@@ -43,33 +43,7 @@ int main() {
 ```
 
 
-## 🚀 Quick Start
-
-```bash
-# Clone this repository
-git clone https://github.com/moeinghaeini/moeinghaeini.git
-
-# Navigate to the project
-cd moeinghaeini
-
-# Compile the C++ profile (if you have g++)
-g++ -o profile README.md
-
-# Run the profile
-./profile
-```
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moeinghaeini&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeinghaeini&layout=compact&theme=radical)
-
----
-
-<div align="center">
-
-**🌟 "Code is poetry written in logic" 🌟**
+**🌟 "On Social Media" 🌟**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moeinghaeini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeinghaeini/)
