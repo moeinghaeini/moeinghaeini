@@ -58,36 +58,91 @@ Structured Data (JSON-LD)
 <div style="width: 61.8%; margin: 4.236em auto; padding: 2.618em 0;">
 
 ```cpp
+/**
+ * Solution: Profile Display System
+ * Time Complexity: O(n) where n = number of expertise items
+ * Space Complexity: O(1) excluding output
+ * 
+ * Design Philosophy: Golden Ratio (φ = 1.618...)
+ * - Optimized for efficiency and readability
+ * - Follows LeetCode-style clean code principles
+ */
+
 #include <iostream>
 #include <string>
 #include <vector>
-#include <aws/core/Aws.h>
+#include <algorithm>
 
-class MoeinGhaeini {
+class Solution {
 private:
-    std::string name = "Moein Ghaeini";
-    std::string role = "Cloud Data Engineer & Solution Architect";
-    std::vector<std::string> expertise = {
-        "Data Engineering", "Solution Architecture", "AWS Services"
-    };
+    // Golden ratio constants (φ = 1.618033988749895...)
+    static constexpr double PHI = 1.618033988749895;
+    static constexpr double PHI_SQUARED = 2.618033988749895;
+    
+    // Immutable profile data - const correctness
+    const std::string name;
+    const std::string role;
+    const std::vector<std::string> expertise;
     
 public:
-    void displayProfile() {
-        std::cout << "\n🚀 " << name << std::endl;
-        std::cout << "💼 " << role << std::endl;
-        std::cout << "\n📋 Core Expertise:" << std::endl;
+    // Constructor with member initializer list for efficiency
+    Solution() 
+        : name("Moein Ghaeini")
+        , role("Cloud Data Engineer & Solution Architect")
+        , expertise({"Data Engineering", "Solution Architecture", "AWS Services"})
+    {}
+    
+    /**
+     * Display profile with optimized string operations
+     * Uses const reference to avoid unnecessary copies
+     */
+    void displayProfile() const {
+        // Pre-allocate output for better performance
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(nullptr);
         
+        // Header section (23.6% of visual space - golden ratio division)
+        std::cout << "\n" << name << '\n';
+        std::cout << role << '\n';
+        
+        // Main content section (61.8% - golden ratio major)
+        std::cout << "\nCore Expertise:\n";
+        
+        // Range-based for loop with const reference (O(n) iteration)
         for (const auto& skill : expertise) {
-            std::cout << "   ⚡ " << skill << std::endl;
+            std::cout << "   " << skill << '\n';
         }
+    }
+    
+    /**
+     * Calculate golden ratio proportions
+     * Demonstrates mathematical precision
+     */
+    static constexpr double getGoldenRatio() noexcept {
+        return PHI;
+    }
+    
+    /**
+     * Get expertise count - O(1) operation
+     */
+    size_t getExpertiseCount() const noexcept {
+        return expertise.size();
     }
 };
 
 int main() {
-    MoeinGhaeini profile;
-    profile.displayProfile();
+    // Stack allocation - optimal memory usage
+    Solution solution;
     
-    std::cout << "\n✨ Let's build amazing cloud solutions together! ✨" << std::endl;
+    // Display profile
+    solution.displayProfile();
+    
+    // Footer section (38.2% - golden ratio minor)
+    std::cout << "\nLet's build amazing cloud solutions together!\n";
+    
+    // Demonstrate golden ratio calculation
+    std::cout << "\nGolden Ratio (φ): " << Solution::getGoldenRatio() << '\n';
+    
     return 0;
 }
 ```
