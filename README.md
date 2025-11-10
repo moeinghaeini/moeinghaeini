@@ -1,4 +1,5 @@
-<!-- SEO Meta Tags -->
+<!--
+SEO Meta Tags (Hidden)
 <title>Moein Ghaeini - Cloud Data Engineer & Solution Architect | AWS Expert</title>
 <meta name="description" content="Moein Ghaeini - Expert Cloud Data Engineer & Solution Architect specializing in AWS Services, Data Engineering, and Solution Architecture. Professional portfolio and contact information.">
 <meta name="keywords" content="Moein Ghaeini, Cloud Data Engineer, Solution Architect, AWS Services, Data Engineering, Solution Architecture, Cloud Solutions, AWS Expert, Data Engineer, Cloud Architect, Moein Ghaeini Portfolio, Moein Ghaeini AWS">
@@ -7,19 +8,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#FF5722">
 
-<!-- Open Graph / Facebook -->
+Open Graph / Facebook
 <meta property="og:type" content="profile">
 <meta property="og:title" content="Moein Ghaeini - Cloud Data Engineer & Solution Architect">
 <meta property="og:description" content="Expert Cloud Data Engineer & Solution Architect specializing in AWS Services, Data Engineering, and Solution Architecture.">
 <meta property="og:url" content="https://www.moeinghaeini.com/">
 <meta property="og:site_name" content="Moein Ghaeini">
 
-<!-- Twitter Card -->
+Twitter Card
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Moein Ghaeini - Cloud Data Engineer & Solution Architect">
 <meta name="twitter:description" content="Expert Cloud Data Engineer & Solution Architect specializing in AWS Services, Data Engineering, and Solution Architecture.">
 
-<!-- Structured Data (JSON-LD) -->
+Structured Data (JSON-LD)
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -38,6 +39,7 @@
   "description": "Expert Cloud Data Engineer & Solution Architect specializing in AWS Services, Data Engineering, and Solution Architecture."
 }
 </script>
+-->
 
 <div align="center" style="margin-bottom: 2.618em; padding: 1.618em 0;">
 
@@ -108,7 +110,8 @@ int main() {
 
 </div>
 
-<!-- SEO Content Section -->
+<!--
+SEO Content Section (Hidden)
 <div style="display: none;">
   <h2>About Moein Ghaeini</h2>
   <p>Moein Ghaeini is a professional Cloud Data Engineer and Solution Architect with expertise in AWS Services, Data Engineering, and Solution Architecture. Specializing in building scalable cloud solutions and data engineering pipelines.</p>
@@ -125,6 +128,7 @@ int main() {
   <h2>Expertise</h2>
   <p>Moein Ghaeini specializes in Data Engineering, Solution Architecture, and AWS Services. With deep knowledge in cloud computing and data solutions, Moein Ghaeini helps organizations build robust, scalable cloud infrastructure.</p>
 </div>
+-->
 
 <!--
 ═══════════════════════════════════════════════════════════════════════════════
